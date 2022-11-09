@@ -9,7 +9,6 @@ public class Main {
         System.out.println(p);
 
         p.nombre = "Otro nombre";  // TODO: el nombre del empleado no debería poderse cambiar (debe ser inmutable)
-
     }
 
 }
